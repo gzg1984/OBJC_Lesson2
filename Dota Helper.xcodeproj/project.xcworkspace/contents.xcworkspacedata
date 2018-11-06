@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:lesson2.xcodeproj">
+      location = "self:/Users/gaozhigang/Desktop/lesson2/Dota Helper.xcodeproj">
    </FileRef>
 </Workspace>
